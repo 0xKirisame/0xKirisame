@@ -19,7 +19,7 @@ I'm a second-year Computer Engineering student with a keyboard in one hand and a
 ![Cloud](https://img.shields.io/badge/Cloud-Engineer-blue?logo=azuredevops)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
 ![Bash](https://img.shields.io/badge/Shell-Bash-lightgrey?logo=gnubash)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Junior%20Penetration%20Tester-red)
+![TryHackMe](https://img.shields.io/badge/Junior%20Penetration%20Tester-red)
 ![Obfuscation](https://img.shields.io/badge/-Obfuscation-informational)
 
 ---

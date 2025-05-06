@@ -3,8 +3,6 @@
 > “Obfuscation is an art. Elegance is a trap. Hack the idea, not the tool.”  
 > — Me, probably.
 
-<img src="https://www.pinterest.com/pin/149463281376651372/" width="150" align="right" alt="Teto Kasane Profile" />
-
 I'm a second-year Computer Engineering student with a keyboard in one hand and a terminal in the other. Currently walking the fine line between deep-tech obsession and cloud security dreams ☁️🔐
 
 - 🛡️ Focused on **Cloud Security**, **Linux**, and **Reverse Engineering**

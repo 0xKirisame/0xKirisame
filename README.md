@@ -1,51 +1,31 @@
-# 👋 Yo! I'm Salman
+# Welcome, I’m Salman  
+**“Obfuscation is an art. Elegance is a trap. Hack the idea, not the tool.”**  
+— me, probably.
 
-> “Obfuscation is an art. Elegance is a trap. Hack the idea, not the tool.”  
-> — Me, probably.
+I’m a second-year Computer Engineering student at King Saud University, deep in the trenches of shell prompts, cloud consoles, and the occasional existential monologue.
 
-I'm a second-year Computer Engineering student with a keyboard in one hand and a terminal in the other. Currently walking the fine line between deep-tech obsession and cloud security dreams ☁️🔐
+## 💻 What I’m Into  
+- 🛡️ Cloud Security, Linux, Reverse Engineering  
+- 🧠 I don’t follow the meta — I *am* the weird pick that works (think Gunlance in Monster Hunter)  
+- ⛓️ Obsessed with systems people don’t want to touch  
 
-- 🛡️ Focused on **Cloud Security**, **Linux**, and **Reverse Engineering**
-- 🎓 Studying at **King Saud University** — surviving exams, thriving in shell prompts
-- 🧠 I don't chase the meta — I *am* the weird pick that works (think Gunlance in Monster Hunter)
+## 🧰 Tools of Choice  
+`Linux` • `Bash` • `Python` • `Rust` • `AWS` • `GCP` • `eBPF` • `Reverse Engineering`
 
----
+## 🎯 Active Quests  
+- ☁️ Building out multi-cloud setups with focus on AWS  
+- 🔍 Digging into reverse engineering and low-level internals  
+- 🧩 Sharpening niche skills for cyber warfare — odd but effective  
 
-## 🧰 Toolbox
+## 📜 Philosophy  
+- Specialize in what everyone avoids  
+- Write dense, beautiful, slightly cursed code  
+- Be unpredictable enough to never be typecast  
 
-![Linux](https://img.shields.io/badge/Linux-Fedora-282C34?logo=linux&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Engineer-blue?logo=azuredevops)
-![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
-![Bash](https://img.shields.io/badge/Shell-Bash-lightgrey?logo=gnubash)
-![TryHackMe](https://img.shields.io/badge/Junior%20Penetration%20Tester-red)
-![Obfuscation](https://img.shields.io/badge/-Obfuscation-informational)
-
----
-
-## 🎯 Current Missions
-
-- ☁️ Labbing with **Terraform**, **AWS**, **Azure**, and all things cloud
-- 🔍 Exploring **reverse engineering** and deeper low-level mechanics
-- 🧩 Honing specialized skills for niche cyber warfare (esoteric but effective)
+## 🗃️ Fun Bits  
+- 🥋 I train in Brazilian Jiu-Jitsu — I like mounting people like partitions  
+- 🎮 Yes, my naming convention for projects is just Touhou/Vocaloid puns  
 
 ---
 
-## 📜 My Philosophy
-
-I believe in:
-- Specializing in what everyone avoids
-- Writing code like it’s poetry — dense, beautiful, and slightly cursed
-- Staying just unpredictable enough that people never assume correctly
-
----
-
-## 🗃️ Fun Facts
-
-- 🎓 Gave graduation speeches, but would rather script a payload
-- 🌸 Used to draw anime. Now I study roses like a scientist
-- 🌀 Personality: ENTP-T | Mood: Terminal + Teto
-
----
-
-**Thanks for stopping by. May your packets be encrypted and your logs clean.**
-
+*May your packets stay encrypted and your logs stay clean.*

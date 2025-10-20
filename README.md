@@ -1,1 +1,3 @@
-# Do we even exist if we didnt face APT29 or APT41 once in our lifetime?
+> "There are two things... First the death of my master has made you stronger. Second, I have always been strong."
+>
+> — Tou to Moubou

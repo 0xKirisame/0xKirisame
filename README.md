@@ -1,3 +1,3 @@
-># "There are two things... First the death of my master has made you stronger. Second, I have always been strong."
+># "I'm at rock bottom. that means the only way is up!"
 >
-> — Tou to Moubou
+> — Ichiban Kasuga, Hero of yokohama

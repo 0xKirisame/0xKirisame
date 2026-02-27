@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzFKHm5BKX_OqGuzYAmhEDHe-kgiasXEM90g&s" alt="Hatsune Miku - 1/6 out of gravity" />
+<img src="https://cdn.piapro.jp/thumb_i/1z/1zdopbmh13r4n5v9_20210110210511_0860_0600.png" alt="Hatsune Miku - 1/6 out of gravity" />
 </p>
 
 ># "いつか重力のクサリを 断ち切り君を連れてサテライト"

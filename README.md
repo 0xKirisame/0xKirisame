@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JJYyeFoiYH4">
+  <a href="https://youtu.be/EUsU8kDOv_g?si=csrxAbUqhjGygX_g">
     <img src="https://cdn.piapro.jp/thumb_i/1z/1zdopbmh13r4n5v9_20210110210511_0860_0600.png" alt="Hatsune Miku - 1/6 out of gravity" />
   </a>
 </p>
